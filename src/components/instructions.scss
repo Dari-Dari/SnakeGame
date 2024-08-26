@@ -1,0 +1,29 @@
+.instruction_letter {
+  background-color: rgb(241, 241, 241);
+  color: rgb(34, 34, 34);
+  padding: 0.2rem 0.5rem;
+  border: 0.5 solid rgb(22, 22, 22);
+  border-radius: 4px;
+  box-shadow: 2px 2px 5px grey;
+}
+
+p {
+  margin: 1.2rem 0;
+}
+
+div p:nth-last-child(1) {
+  margin: 0.5rem;
+}
+
+.main_button {
+  padding: 0.5rem 0.8rem;
+  background-color: rgb(78, 78, 78);
+  color: white;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+span {
+  margin-right: 0.5rem;
+}
